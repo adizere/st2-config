@@ -2,6 +2,10 @@
 	"WrapPlus.break_on_hyphens": false,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"default_line_ending": "unix",
+	"binary_file_patterns":
+	[
+		"*.pdf"
+	],
 	"file_exclude_patterns":
 	[
 		"*.pyc",
