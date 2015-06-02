@@ -1,6 +1,6 @@
 {
 	"WrapPlus.break_on_hyphens": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"color_scheme": "Packages/Visual Studio Dark/Visual Studio Dark.tmTheme",
 	"default_line_ending": "unix",
 	"binary_file_patterns":
 	[
@@ -27,9 +27,10 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.hi"
+		"*.hi",
+		"*.beam"
 	],
-	"font_face": "Menlo Regular",
+	"font_face": "Menlo",
 	"font_size": 13.0,
 	"ignored_packages":
 	[
