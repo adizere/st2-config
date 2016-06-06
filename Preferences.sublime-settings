@@ -1,11 +1,14 @@
 {
 	"WrapPlus.break_on_hyphens": false,
-	"color_scheme": "Packages/Visual Studio Dark/Visual Studio Dark.tmTheme",
-	"default_line_ending": "unix",
 	"binary_file_patterns":
 	[
 		"*.pdf"
 	],
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"default_line_ending": "unix",
+	"dictionary": "Packages/Language - English/en_US.dic",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -30,12 +33,14 @@
 		"*.hi",
 		"*.beam"
 	],
-	"font_face": "Menlo",
+	"font_face": "DejaVu Sans Mono",
 	"font_size": 13.0,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"open_files_in_new_window": true,
 	"rulers":
 	[
@@ -44,6 +49,8 @@
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"show_tab_close_buttons": false,
+	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"wrap_width": 80
 }
