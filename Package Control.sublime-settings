@@ -1,22 +1,30 @@
 {
-	"installed_packages":
-	[
-		"3024 Color Scheme",
-		"All Autocomplete",
-		"AutoFileName",
-		"Better Completion",
-		"C Improved",
-		"C99",
-		"Comments Aware Enter",
-		"DocBlockr",
-		"Git",
-		"GitGutter",
-		"LaTeXTools",
-		"Package Control",
-		"SublimeHaskell",
-		"Theme - Lyte",
-		"Theme - Soda",
-		"Visual Studio Dark",
-		"Wrap Plus"
-	]
+        "bootstrapped": true,
+        "in_process_packages":
+        [
+        ],
+        "installed_packages":
+        [
+                "3024 Color Scheme",
+                "All Autocomplete",
+                "AutoFileName",
+                "BracketHighlighter",
+                "C Improved",
+                "C99",
+                "Comments Aware Enter",
+                "DocBlockr",
+                "Git",
+                "GitGutter",
+                "Gnuplot",
+                "LaTeXTools",
+                "Markdown Extended",
+                "Markdown Preview",
+                "Package Control",
+                "SublimeHaskell",
+                "Theme - Lyte",
+                "Theme - Soda",
+                "Theme - Spacegray",
+                "Visual Studio Dark",
+                "Wrap Plus"
+        ]
 }
